@@ -1,0 +1,56 @@
+{
+  "projects": [
+    {
+      "date": "07/10/2022",
+      "title": "TECH TRENDS",
+      "description": "We are your one and only solution to the tech problems you face every day. We are leading tech company whose aim is to increase the problem solving ability in children.",
+      "url": "https://reactone-weld-eight.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+    
+    {
+      "date": "02/07/2022",
+      "title": "TextAnalyzer",
+      "description": "Try TextAnalyzer -Word Counter ,Character Counter , Remove Spaces ",
+      "url": "https://6398b6bc9dd2290008613d39--jocular-mermaid-0a96f8.netlify.app/",
+      "imgSrc": "http://store-images.s-microsoft.com/image/apps.9072.9007199266552774.873aa99d-0864-47cf-a558-bc8d3f0b54a4.43c12a8e-e4f2-4ac2-a719-33f70df63a92"
+    },
+
+    {
+      "date": "11/09/2022",
+      "title": "FLIXFUSION HUB",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://react-video-app-theta-one.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "15/11/2022",
+      "title": "CryptoCove",
+      "description": "It may offer a variety of features such as a market cap tracker, price charts, and in-depth analysis of various cryptocurrencies.",
+      "url": "https://react-crypto-app-vert.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+
+    {
+      "date": "17/10/2022",
+      "title": "GADGET MART",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://react-cart-sepia.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+      "date": "11/01/2023",
+      "title": "Netflix Clone",
+      "description": "It typically offers a wide variety of movies and TV shows that can be streamed online, often using a subscription-based model.",
+      "url": "https://netflix-clone-react-one-amber.vercel.app/",
+      "imgSrc": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8616c967-ff6d-40aa-a418-90b4021f0caf/dfd1m2e-d60e274c-1534-4b6a-8bc4-c25de0149912.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg2MTZjOTY3LWZmNmQtNDBhYS1hNDE4LTkwYjQwMjFmMGNhZlwvZGZkMW0yZS1kNjBlMjc0Yy0xNTM0LTRiNmEtOGJjNC1jMjVkZTAxNDk5MTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bWvkP_aRvtSIMGt0lHwg8nMnLBPINGVP7KNX_X7tOJU"
+    },
+    {
+      "date": "20/10/2022",
+      "title": "PORTFOLIO",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}
